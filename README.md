@@ -12,6 +12,10 @@ High attack rate players have higher market value
 Players aged 25–30 showed highest value
 Experience alone did not determine wages
 
+Dashboard Screenshot:
+<img width="1342" height="745" alt="image" src="https://github.com/user-attachments/assets/4f5a572f-0fa6-43a4-89a9-7374df475de8" />
+
+
 Dashboard Features:
 Interactive filters
 KPI cards
